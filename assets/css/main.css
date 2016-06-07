@@ -2392,7 +2392,7 @@ button,
     background-color: #1E2832;
     color: rgba(255, 255, 255, 0.75);
     background-attachment: fixed;
-    background-image: url("images/overlay.png"), url("../../images/pic11.jpg");
+    background-image: url("images/overlay.png"), url("../../images/banner-london-bridge.jpg");
     background-size: cover; }
     .wrapper.style3 input, .wrapper.style3 select, .wrapper.style3 textarea {
       color: #fff; }
@@ -2749,7 +2749,7 @@ body {
   background-color: #1E2832;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+  background-image: url("images/overlay.png"), url("../../images/banner-london.jpg");
   background-size: cover;
   text-align: center; }
   #banner input, #banner select, #banner textarea {
